@@ -1,0 +1,22 @@
+.all-books{
+    width: 90%;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ flex-wrap: wrap;
+
+}
+
+.one-book{
+    margin: 30px 30px;
+}
+
+.one-book img{
+    width: 350px;
+    height:350px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
